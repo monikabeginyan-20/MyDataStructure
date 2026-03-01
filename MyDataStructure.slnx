@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyLinkedListNode/LinkedList.csproj" />
+  <Project Path="TestingDataStructures/TestingDataStructures.csproj" Id="c7080ec9-31de-40d9-b759-804883998201" />
+</Solution>
