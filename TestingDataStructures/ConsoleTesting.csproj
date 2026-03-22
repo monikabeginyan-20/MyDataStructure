@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyBinaryTreeProj\MyBinaryTreeProj.csproj" />
+    <ProjectReference Include="..\MyLinkedListNode\MyLinkedListLib.csproj" />
+    <ProjectReference Include="..\MyQueueProj\MyQueueProj.csproj" />
+    <ProjectReference Include="..\MyStackArray\MyStackArrayProj.csproj" />
+    <ProjectReference Include="..\MyStack\MyStackProj.csproj" />
+    <ProjectReference Include="..\PostfixCalculateProj\PostfixCalculateProj.csproj" />
+  </ItemGroup>
+
+</Project>

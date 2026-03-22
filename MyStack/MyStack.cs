@@ -1,7 +1,8 @@
-﻿using System;
+﻿using LinkedList;
+using System;
 using System.Collections;
 
-namespace LinkedList;
+namespace MyStackProj;
 
 public class MyStack<T>
 {
